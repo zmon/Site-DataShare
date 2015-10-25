@@ -1,2 +1,4 @@
 newlogs
 /logs
+vendor
+vendor/

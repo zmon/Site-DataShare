@@ -33,7 +33,7 @@ you sould see something simular to the following:
 ````
 Loading composer repositories with package information
 Installing dependencies (including require-dev)       
-  - Installing commonaccord/ccmac (dev-master 6d54920)
+  - Installing commonaccord/ccmac-ui (dev-master 6d54920)
     Cloning 6d54920dbb67f75c9bed957abdc9969325cc3c2b
 
 Writing lock file

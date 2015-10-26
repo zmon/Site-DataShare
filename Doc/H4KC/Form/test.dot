@@ -1,4 +1,4 @@
-.page Home|Home page
+.page 
 
 This is text of the first page
 
@@ -6,15 +6,16 @@ This is text of the first page
 
 The second page has some questions.
 
-.tab T1|Plantif
+.tab T1|Start tab group and start tab
 
 line 1 of tab1
 
-.tab T2|Other
+.tab end previous tab and start new tab
 line 1 of tab2
 
 
-.page Q2|More questions
+.page Q2|More questions, end tab, end tab group
+.page Findal apge
 
 Final page 
 

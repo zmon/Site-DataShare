@@ -2,13 +2,27 @@
 
 <p>This is text of the first page</p>
 
+
+
+
+<p>and more text</p>
+
 .page Q1|Questions
 
 The second page has some questions.
 
-.tab T1|Start tab group and start tab
+.tab city|City
 
-line 1 of tab1
+<p>This tab contains information about the city you are making the agrement with</p>
+
+.field City.Name.Full
+.field_label City Name
+
+.field City Department
+
+.field Address of City Department
+
+<p>The next tab will have information about you</P.
 
 .tab end previous tab and start new tab
 line 1 of tab2

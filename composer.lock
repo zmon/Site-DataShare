@@ -1,0 +1,42 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "c97ad1ecb2b5ce093de13f2b1cd41782",
+    "content-hash": "5cfede25b05d475f1214963d59263e10",
+    "packages": [
+        {
+            "name": "CommonAccord/cmacc-ui",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zmon/cmacc-ui.git",
+                "reference": "6b235655623de37c7bfe2db7f4a1da38b0ef78d8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zmon/cmacc-ui/zipball/6b235655623de37c7bfe2db7f4a1da38b0ef78d8",
+                "reference": "6b235655623de37c7bfe2db7f4a1da38b0ef78d8",
+                "shasum": ""
+            },
+            "type": "library",
+            "support": {
+                "source": "https://github.com/zmon/cmacc-ui/tree/master",
+                "issues": "https://github.com/zmon/cmacc-ui/issues"
+            },
+            "time": "2015-10-25 01:20:06"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "commonaccord/cmacc-ui": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -1,7 +1,7 @@
-composer.lock
 .idea
 .idea/
 newlogs
 /logs
 vendor
 vendor/
+/vendor/

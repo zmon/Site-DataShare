@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/zmon/cmacc-ui.git",
-                "reference": "691df929c374ee7cfb44b57916574ea366798114"
+                "reference": "7f1d803d2af622a78498992bf8dbf6b5bd7a1695"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zmon/cmacc-ui/zipball/691df929c374ee7cfb44b57916574ea366798114",
-                "reference": "691df929c374ee7cfb44b57916574ea366798114",
+                "url": "https://api.github.com/repos/zmon/cmacc-ui/zipball/7f1d803d2af622a78498992bf8dbf6b5bd7a1695",
+                "reference": "7f1d803d2af622a78498992bf8dbf6b5bd7a1695",
                 "shasum": ""
             },
             "type": "library",
@@ -26,7 +26,7 @@
                 "source": "https://github.com/zmon/cmacc-ui/tree/master",
                 "issues": "https://github.com/zmon/cmacc-ui/issues"
             },
-            "time": "2015-10-29 03:29:22"
+            "time": "2015-11-03 05:46:15"
         }
     ],
     "packages-dev": [],

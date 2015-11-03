@@ -32,6 +32,7 @@
 .field City Department
 .field_label Department
 .field_place_holder Water
+.field_description Donec pretium, ipsum id elementum finibus, nibh odio molestie ante, sed congue ex massa quis massa. Curabitur ac est nec dui tempus consequat molestie eleifend est. Nulla pharetra
 
 .field Address of City Department
 .field_label Address

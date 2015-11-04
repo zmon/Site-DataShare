@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c97ad1ecb2b5ce093de13f2b1cd41782",
-    "content-hash": "5cfede25b05d475f1214963d59263e10",
+    "hash": "d3c8f3ea8c4b01a90f1978ae06a4705d",
+    "content-hash": "7d134e1ec3326aa9f1425f9f0969d10e",
     "packages": [
         {
             "name": "CommonAccord/cmacc-ui",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/zmon/cmacc-ui.git",
+                "url": "https://github.com/UMKC-Law/cmacc-ui.git",
                 "reference": "4de172bc05e4dbd0c55cc4f9cebfea8e9c1cdc74"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zmon/cmacc-ui/zipball/4de172bc05e4dbd0c55cc4f9cebfea8e9c1cdc74",
+                "url": "https://api.github.com/repos/UMKC-Law/cmacc-ui/zipball/4de172bc05e4dbd0c55cc4f9cebfea8e9c1cdc74",
                 "reference": "4de172bc05e4dbd0c55cc4f9cebfea8e9c1cdc74",
                 "shasum": ""
             },

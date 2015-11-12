@@ -28,6 +28,8 @@ DEFINE('EDIT_TAB_MESSAGE', 'Edit'); // Tab
 
 DEFINE('COMPLETE_TAB_MESSAGE', 'Edit and Complete');    // Tab
 
+DEFINE('EDIT_FORM_MESSAGE', 'Form Edit');    // Tab
+
 DEFINE('DOC_TAB_MESSAGE', 'Document');  // Tab
 
 DEFINE('PRINT_TAB_MESSAGE', 'Print');   // Tab

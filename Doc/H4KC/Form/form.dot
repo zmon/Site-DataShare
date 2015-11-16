@@ -1,0 +1,84 @@
+.page
+
+<h1 class="header" >What is this</h1>
+
+<p><i>This page should describe the process they are going through, it building an agreement</i>...</p>
+
+.field data_usage
+.field_type radio
+.field_label Data usage
+.field_description Check one or more
+.field_option res|Research
+.field_option gov|Government
+.field_option sch|School
+.field_option bus|Business
+
+
+.page
+<h1 class="header" >Water Department - Data Sharing Agreement </h1>
+
+<P  class="header">The following identifying information will be used in the legal agrement.
+
+
+.field P2.Name.Full
+.field_label Your Name
+.field_description Full legal name, first and last
+.field_place_holder Bob Smith
+
+.field Legal.name
+.field_label Organization Name
+.field_description Include the legal name of your organization as it appears on your certificate with the Secretary of State
+.field_place_holder We Are Data, LLC
+
+.field P2.Addr.1,2,3
+.field_label Your Address
+.field_place_holder 210 W 19th Terr, Kansas City, MO 64118
+.field_description City, State Zip – Include the full name of each city and state, then use the five digit Zip Code
+
+.field Type of data
+.field_label Type of data
+.field_description Open Data is located here: Data.KCMO.org – The City has also made these types of data open, subject to certain contractual limitations: Pipe Pressure Data and Fire Hydrant Data
+
+
+.field type.of.data
+.field_label Type of Data
+.field_type textarea
+.field_description Full legal name, first and last
+.field_place_holder Bob Smith
+
+.page
+
+<h1 class="header" >Scope of use </h1>
+
+<p class="header">How the data is going to be used:
+</p>
+
+
+
+.page
+
+<h1 class="header" >Water Department - Data Sharing Agreement </h1>
+
+<p class="header">Indicate type type of data your are requesting
+</p>
+
+.field type.of.data
+.field_label Type of Data
+.field_type textarea
+.field_description Full legal name, first and last
+.field_place_holder Bob Smith
+
+.page
+
+<h1 class="header" >Water Department - Data Sharing Agreement </h1>
+
+<p class="header">Indicate type type of data your are requesting
+</p>
+
+.field type.of.data
+.field_label Type of Data
+.field_type textarea
+.field_description Full legal name, first and last
+.field_place_holder Bob Smith
+
+

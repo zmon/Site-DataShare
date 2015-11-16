@@ -1,67 +1,61 @@
 .page
 
-<h1>Paul's header</h1>
+<h1 class="header" >What is this</h1>
+
+<p><i>This page should describe the process they are going through, it building an agreement</i>...</p>
 
 
-<P>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam mi mauris, dignissim vitae odio at, posuere semper nulla. Nam sit amet aliquet turpis. Cras tempus et tellus ac ultricies. Aliquam ornare ex sit amet tellus accumsan congue. Morbi sit amet velit id dolor vulputate cursus. Quisque interdum porta massa a consectetur.
 
-<P>Integer risus ante, blandit vel consequat id, rutrum at ipsum. Donec leo erat, dignissim at pharetra vitae, convallis quis ligula. Aliquam at augue eget ante lobortis dignissim. Aliquam mattis lacus aliquam varius mattis. Vestibulum non magna ut quam fermentum suscipit. Donec quis fringilla nisi, nec imperdiet purus. Pellentesque sed tempor magna, sit amet dictum augue. Nullam mi libero, sodales at odio ut, pretium aliquet ligula. Nam ac neque massa.
 
-<P>Mauris massa mauris, vulputate eget mattis sit amet, semper non massa. Donec pretium, ipsum id elementum finibus, nibh odio molestie ante, sed congue ex massa quis massa. Curabitur ac est nec dui tempus consequat molestie eleifend est. Nulla pharetra egestas erat vitae tristique. Mauris dignissim ligula ut augue mattis tempus. Nulla finibus nulla sed elit consequat, eu finibus mi hendrerit. Integer lacinia porttitor diam ut consectetur.
+.page
+<h1 class="header" >Water Department - Data Sharing Agreement </h1>
 
-<P>Sed eu dictum magna, sed semper mi. Proin tempor, diam ultricies posuere pellentesque, metus neque sagittis nibh, sit amet convallis enim lectus a quam. Ut pulvinar vehicula leo ac ultricies. Maecenas pellentesque viverra augue. In sit amet tempus ante. Fusce suscipit quis nisi ac lobortis. Vivamus finibus eget sem eu facilisis. Donec sit amet dignissim risus. Vivamus ut congue libero. Ut scelerisque dolor id odio vulputate scelerisque.
+<P  class="header">The following identifying information will be used in the legal agrement.
 
-<P>Aliquam eleifend lobortis est, non dignissim ligula imperdiet quis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut bibendum commodo tellus facilisis cursus. Duis et iaculis felis. Cras laoreet sapien ac sagittis dignissim. Nulla porttitor diam sit amet urna vestibulum, non imperdiet justo cursus. Nunc a hendrerit neque. In ut dui faucibus, semper enim non, dapibus turpis.
-
-.page Q1|Questions
-
-<P>Integer risus ante, blandit vel consequat id, rutrum at ipsum. Donec leo erat, dignissim at pharetra vitae, convallis quis ligula. Aliquam at augue eget ante lobortis dignissim. Aliquam mattis lacus aliquam varius mattis. Vestibulum non magna ut quam fermentum suscipit. Donec quis fringilla nisi, nec imperdiet purus. Pellentesque sed tempor magna, sit amet dictum augue. Nullam mi libero, sodales at odio ut, pretium aliquet ligula. Nam ac neque massa.
-
-.tab city|City
-
-<p> 
-
-<P>Mauris massa mauris, vulputate eget mattis sit amet, semper non massa. Donec pretium, ipsum id elementum finibus, nibh odio molestie ante, sed congue ex massa quis massa. Curabitur ac est nec dui tempus consequat molestie eleifend est. Nulla pharetra egestas erat vitae tristique. Mauris dignissim ligula ut augue mattis tempus. Nulla finibus nulla sed elit consequat, eu finibus mi hendrerit. Integer lacinia porttitor diam ut consectetur.
-
-.field City.Name.Full
-.field_label City Name
-.field_description Legal City Name
-.field_place_holder City of Kansas City, Missouri
-
-.field City Department
-.field_label Department
-.field_place_holder Water
-.field_description Donec pretium, ipsum id elementum finibus, nibh odio molestie ante, sed congue ex massa quis massa. Curabitur ac est nec dui tempus consequat molestie eleifend est. Nulla pharetra
-
-.field Address of City Department
-.field_label Address
-.field_description Mailing address of the department
-
-.tab You
-
-<p> 
 
 .field P2.Name.Full
-.field_label Your full name
+.field_label Your Name
+.field_description Full legal name, first and last
 .field_place_holder Bob Smith
 
+.field Legal.name
+.field_label Organization Name
+.field_description Include the legal name of your organization as it appears on your certificate with the Secretary of State
+.field_place_holder We Are Data, LLC
+
 .field P2.Addr.1,2,3
-.field_label Your Mailing Address
-.field_place_holder 210 W 19th Terr, KCMO 64106
-
-.tab Agreement
-
-<p> 
-
-.field Specific obligations under Agreement
-
-.field Data Collection Center
-
-.field Data Collection Center Address
-
-.field Goals of Agreement
+.field_label Your Address
+.field_place_holder 210 W 19th Terr, Kansas City, MO 64118
+.field_description City, State Zip – Include the full name of each city and state, then use the five digit Zip Code
 
 
-.page F1|Final page
+.page
 
-Final page
+<h1 class="header" >SData</h1>
+
+<p class="header">How the data is going to be used:</p>
+
+.field data_usage
+.field_type radio
+.field_label Data usage
+.field_description Check one or more
+.field_option res|Research
+.field_option gov|Government
+.field_option sch|School
+.field_option bus|Business
+
+
+.field return.to.city
+.field_label Benefit to city
+.field_type textarea
+.field_description What will citizens and or the government of the city get in return
+
+
+.field type.of.data
+.field_label Data you need
+.field_type textarea
+.field_description Describe the data you need
+
+
+
+

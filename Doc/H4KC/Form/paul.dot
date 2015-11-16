@@ -2,8 +2,7 @@
 
 <h1 class="header" >What is this</h1>
 
-<p><i>This page should describe the process they are going through, it building an agreement</i>...</p>
-
+<p class="header"><i>This page should describe the process they are going through, it building an agreement</i>...</p>
 
 
 
@@ -31,7 +30,7 @@
 
 .page
 
-<h1 class="header" >SData</h1>
+<h1 class="header" >Data</h1>
 
 <p class="header">How the data is going to be used:</p>
 

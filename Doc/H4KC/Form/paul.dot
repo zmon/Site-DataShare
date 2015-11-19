@@ -55,6 +55,74 @@
 .field_type textarea
 .field_description Describe the data you need
 
+.page
+.field Ti
+.field_value
+
+.field SecName
+.field_value
+.field {SecName
+.field_value
+.field P1.Sign.Block
+.field_value
+.field P2.Sign.Block
+.field_value
+
+WAS=2015/11/17 : 1447718486
+
+.field MessageToUser
+.field_value DRAFT 1
+.field Agt.Effective.YMD
+.field_value DRAFT 1June 7, 2015
+
+.field City.Name.Full
+.field_value Pleasantville, IH
+
+.field City Department
+.field_value Fire Department
+
+.field Address of City Department
+.field_value 119 Main, {P1.Addr.2}
+
+.field P2.Name.Full
+.field_value Acme Innovators Inc.
+
+.field P2.Addr.1,2,3
+.field_value 333 Commerce Avenue, {P2.Addr.2}
+
+.field Specific obligations under Agreement
+.field_value <font color="red">TBD</font>
+
+.field Data Collection Center
+.field_value Pleasantville Center for Data
+
+.field Data Collection Center Address
+.field_value 113 Main St., {P1.Addr.2}
+
+.field Goals of Agreement
+.field_value TBD
+
+.field City Administrator
+.field_value Pleasantville City Controller, {P1.Addr.1,2}
+
+.field State
+.field_value Ihido
+
+.field.P1.Addr.1
+.field_value 111 Main Street
+
+.field.P1.Addr.2
+.field_value Pleasantville, IH 00000
+
+.field P1.Addr.3
+.field_value USA
+
+.field P1.Addr.1,2
+.field_value {P1.Addr.1}, {P1.Addr.2}
+
+.field P2.Addr.2
+.field_value {P1.Addr.2}
 
 
+=[H4KC/Form/Master_DSA.md]  
 

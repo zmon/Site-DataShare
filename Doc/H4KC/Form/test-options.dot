@@ -1,0 +1,32 @@
+.page
+
+<h1 class="header" >Options Example</h1>
+
+<p class="header">This is how we can select between several things.  The following lines select the second option</p>
+
+
+<pre>
+1.sec={1.Alt2.sec}
+    .
+    .
+    .
+1.Alt1.sec=ONE User shall exercise due care to protect all Smart data from unauthorized physical and electronic access. Both parties shall establish ...
+
+1.Alt2.sec=TWO User shall exercise due care to protect all Smart City data from unauthorized physical and electronic access. Both parties shall establish ...
+
+1.Alt3.sec=THREE User shall exercise due care to protect all Smart City data from unauthorized physical and electronic access. Both parties shall establish ...
+
+1.=[Z/Alt/3]
+</pre>
+
+
+</pre>
+.field 1.sec
+.field_type radio
+.field_label Clause selection
+.field_description Check one or more
+.field_option {1.Alt1.sec}|Option One
+.field_option {1.Alt2.sec}|Option Two
+.field_option {1.Alt3.sec}|Option Three
+
+

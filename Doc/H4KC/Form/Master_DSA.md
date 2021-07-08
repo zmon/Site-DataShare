@@ -26,11 +26,11 @@ Doc.Title=Data Sharing Agreement
 
 6.sec={The_City} agrees and acknowledges that the information supplied by it to User may be used for various interactive and related news-oriented services for distribution by means of any form of on-line or broadband transmission system (“Permitted Uses”) served by the Internet/digital websites. User may not use the information for any other purpose without the express written approval of {the_City}. 
 
-7.sec={City} data shall not be stored by User on portable devices or media unless specifically authorized within this Agreement. If so authorized, the data shall be given the following protections:
+7.0.sec={City} data shall not be stored by User on portable devices or media unless specifically authorized within this Agreement. If so authorized, the data shall be given the following protections:
 
 7.1.sec={Protections}
 
-Alt8.sec=<font color="red">See Sec_Misc_Assign.md for some suggested formulations - in format Alt-X.sec.</font>
+7.=[Z/ol/s1]
 
 8.Alt1.sec=User shall exercise due care to protect all Smart data from unauthorized physical and electronic access. Both parties shall establish and implement the following minimum physical, electronic and managerial safeguards for maintaining the confidentiality of information provided by either party pursuant to this Agreement: <font color="red">Minimum physical, electronic and managerial safeguards for maintaining the confidentiality of information provided by either party pursuant to this Agreement</font>
 
